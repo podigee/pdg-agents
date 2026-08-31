@@ -1,0 +1,4 @@
+interface:
+  display_name: "Podigee"
+  short_description: "Manage and publish podcasts with Podigee"
+  default_prompt: "Use $podigee to manage or publish my Podigee podcast safely."

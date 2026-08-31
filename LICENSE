@@ -1,0 +1,16 @@
+Copyright (c) 2026 Podigee GmbH. All rights reserved.
+
+Podigee CLI License Terms, version 1.0, effective July 10, 2026.
+
+The `pdg` executable is proprietary software. Subject to these Podigee CLI License Terms and the
+Podigee Terms of Service applicable to your Podigee account or subscription, Podigee grants you a
+limited, non-exclusive, non-transferable, revocable right to install and use an unmodified copy of
+the executable solely to access the Podigee services available to that account or subscription.
+
+No source-code license is granted. Except where applicable law does not permit the restriction,
+you may not modify, redistribute, sublicense, sell, rent, lease, reverse engineer, decompile, or
+create derivative works from the executable. You may make copies only as reasonably necessary to
+install, use, or back up the executable for the permitted purpose.
+
+Podigee may provide updates under these same terms. Third-party components remain subject to their
+respective licenses, which are identified in the notices distributed with each release.
